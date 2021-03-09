@@ -1,0 +1,22 @@
+
+
+
+⦁	Styling
+⦁		Dark theme (Top priority)
+⦁	Database section
+⦁		Manager
+⦁		Karen
+⦁		Database parts
+⦁	ViewInventory
+⦁		RecyclerView (with ViewHolder and Adapter)
+⦁		Material cardviews
+⦁		Search box and button
+⦁	AddRollingStock
+  		• Labels, description textviews
+		• Each component of rollingStockItem, except for uuid
+⦁	//Consists
+⦁	Layouts
+⦁		Self explanatory
+⦁	RollingStockItem
+⦁		UUID id;
+⦁		String reportingMarks, fleetID, stockType, owningCompany, isEngine, isLoaded, isRented, isChecked
