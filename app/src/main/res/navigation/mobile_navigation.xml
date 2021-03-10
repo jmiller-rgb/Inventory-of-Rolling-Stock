@@ -7,15 +7,15 @@
 
 		<fragment
 				android:id="@+id/navigation_home"
-				android:name="gq.catz.inventoryofrollingstock.ui.home.HomeFragment"
+				android:name="gq.catz.inventoryofrollingstock.ui.AddRollingStock.AddRollingStockFragment"
 				android:label="@string/title_home"
-				tools:layout="@layout/fragment_home" />
+				tools:layout="@layout/fragment_addrollingstock" />
 
 		<fragment
 				android:id="@+id/navigation_dashboard"
-				android:name="gq.catz.inventoryofrollingstock.ui.dashboard.DashboardFragment"
+				android:name="gq.catz.inventoryofrollingstock.ui.ViewInventory.ViewInventoryFragment"
 				android:label="@string/title_dashboard"
-				tools:layout="@layout/fragment_dashboard" />
+				tools:layout="@layout/fragment_viewinventory" />
 
 		<fragment
 				android:id="@+id/navigation_notifications"
