@@ -1,4 +1,4 @@
-package gq.catz.inventoryofrollingstock.ui.AddRollingStock;
+package gq.catz.inventoryofrollingstockfinal.ui.AddRollingStock;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 
-import gq.catz.inventoryofrollingstock.R;
+import gq.catz.inventoryofrollingstockfinal.R;
 
 public class AddRollingStockFragment extends Fragment {
 

@@ -7,19 +7,19 @@
 
 		<fragment
 				android:id="@+id/navigation_home"
-				android:name="gq.catz.inventoryofrollingstock.ui.AddRollingStock.AddRollingStockFragment"
-				android:label="@string/title_home"
+				android:name="gq.catz.inventoryofrollingstockfinal.ui.AddRollingStock.AddRollingStockFragment"
+				android:label="@string/title_addEntry"
 				tools:layout="@layout/fragment_addrollingstock" />
 
 		<fragment
 				android:id="@+id/navigation_dashboard"
-				android:name="gq.catz.inventoryofrollingstock.ui.ViewInventory.ViewInventoryFragment"
-				android:label="@string/title_dashboard"
+				android:name="gq.catz.inventoryofrollingstockfinal.ui.ViewInventory.ViewInventoryFragment"
+				android:label="@string/title_viewInventory"
 				tools:layout="@layout/fragment_viewinventory" />
 
 		<fragment
 				android:id="@+id/navigation_notifications"
-				android:name="gq.catz.inventoryofrollingstock.ui.notifications.NotificationsFragment"
+				android:name="gq.catz.inventoryofrollingstockfinal.ui.notifications.NotificationsFragment"
 				android:label="@string/title_notifications"
 				tools:layout="@layout/fragment_notifications" />
 </navigation>
