@@ -14,6 +14,12 @@ import gq.catz.inventoryofrollingstockfinal.R;
 
 public class ViewInventoryFragment extends Fragment {
 
+	/**
+	 * @param inflater
+	 * @param container
+	 * @param savedInstanceState
+	 * @return
+	 */
 	public View onCreateView(@NonNull LayoutInflater inflater,
 							 ViewGroup container, Bundle savedInstanceState) {
 		View root = inflater.inflate(R.layout.fragment_viewinventory, container, false);
@@ -25,6 +31,9 @@ public class ViewInventoryFragment extends Fragment {
 
 	private class RecyclerViewHolder extends RecyclerView.ViewHolder {
 
+		/**
+		 * @param itemView
+		 */
 		public RecyclerViewHolder(@NonNull View itemView) {
 			super(itemView);
 		}
