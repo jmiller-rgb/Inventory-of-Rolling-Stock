@@ -37,14 +37,14 @@ public class RollingStockItem {
 	/**
 	 * @return
 	 */
-	public String getReportingMarks() {
+	public String getReportingMark() {
 		return reportingMarks;
 	}
 
 	/**
 	 * @param reportingMarks
 	 */
-	public void setReportingMarks(String reportingMarks) {
+	public void setReportingMark(String reportingMarks) {
 		this.reportingMarks = reportingMarks;
 	}
 
@@ -93,7 +93,7 @@ public class RollingStockItem {
 	/**
 	 * @return
 	 */
-	public String getIsEngine() {
+	public String isEngine() {
 		return isEngine;
 	}
 
@@ -107,7 +107,7 @@ public class RollingStockItem {
 	/**
 	 * @return
 	 */
-	public String getIsLoaded() {
+	public String isLoaded() {
 		return isLoaded;
 	}
 
@@ -121,7 +121,7 @@ public class RollingStockItem {
 	/**
 	 * @return
 	 */
-	public String getIsRented() {
+	public String isRented() {
 		return isRented;
 	}
 
@@ -135,7 +135,7 @@ public class RollingStockItem {
 	/**
 	 * @return
 	 */
-	public String getIsChecked() {
+	public String isChecked() {
 		return isChecked;
 	}
 
