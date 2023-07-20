@@ -4,8 +4,8 @@
 ⦁	Styling
 ⦁		Dark theme (Top priority)
 ⦁	Database section
-⦁		Manager
-⦁		Karen
+⦁		Manager - ?
+⦁		Karen - what?
 ⦁		Database parts
 ⦁	ViewInventory
 ⦁		RecyclerView (with ViewHolder and Adapter)
@@ -20,3 +20,4 @@
 ⦁	RollingStockItem
 ⦁		UUID id;
 ⦁		String reportingMarks, fleetID, stockType, owningCompany, isEngine, isLoaded, isRented, isChecked
+	Maybe integrate with android auto
